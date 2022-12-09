@@ -1,0 +1,52 @@
+h1{
+  color: #4A889A;
+  background-color: #C9DEF5;
+  text-align: center
+}
+
+h2{
+  color: #795877;
+  background-color:  #D2E1F3;
+  text-align: center
+}
+
+h3{
+  color: #BB667D;
+  background-color:  #DBE5F1;
+  text-align: center
+}
+
+h4{
+  color: #DF8384;
+  background-color: #E5E8F0;
+  text-align: center
+}
+
+h5{
+  color: #E99D87;
+  background-color: #EEECEE;
+  text-align: center
+}
+
+h6{
+  color: #F6C49A;
+  background-color: #F7EFEC;
+  text-align: center
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+img{
+  border-radius: 60px;
+  border-style: solid;
+  border-color: #776E99
+}
+
+<hr>
+
+</hr>

@@ -1,0 +1,14 @@
+/* Refer to READMe.MD for CA writeup
+/* Complete the challenge by writing CSS below */
+
+.card 
+{
+  position: relative;
+}
+
+.logo
+{
+  position: absolute;
+  top: -45px;
+  left: 125px;
+}

@@ -1,0 +1,37 @@
+html, body 
+{
+  height: 100%;
+  width: 100%;
+}
+
+h1,h3
+{
+  text-align:center
+}
+
+form
+{
+  text-align:center
+}
+
+body 
+{
+  background-color: #EDA282;
+}
+
+.example
+{
+  background-color: #E38699;
+  font-family: 'Kaushan Script', cursive;
+}
+
+.eg
+{
+  font-family: 'Merienda', cursive;
+}
+
+.form
+{
+  font-family: 'Caveat Brush', cursive;
+}
+
